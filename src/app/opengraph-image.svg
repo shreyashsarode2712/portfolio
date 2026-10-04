@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafafa"></rect>
+
+  <rect x="875" y="105" width="210" height="420" rx="28" fill="none" stroke="#e4e4e7" stroke-width="2"></rect>
+
+  <circle cx="1030" cy="110" r="150" fill="none" stroke="#e4e4e7" stroke-width="2"></circle>
+
+  <circle cx="1110" cy="520" r="90" fill="none" stroke="#e4e4e7" stroke-width="2"></circle>
+
+  <line x1="920" y1="190" x2="1040" y2="190" stroke="#d4d4d8" stroke-width="3"></line>
+  <line x1="920" y1="235" x2="1000" y2="235" stroke="#e4e4e7" stroke-width="3"></line>
+  <line x1="920" y1="280" x2="1025" y2="280" stroke="#e4e4e7" stroke-width="3"></line>
+  <line x1="920" y1="325" x2="980" y2="325" stroke="#d4d4d8" stroke-width="3"></line>
+
+  <text x="90" y="180" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#09090b">
+    Shreyash Sarode
+  </text>
+
+  <text x="94" y="250" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#27272a">
+    Software Developer
+  </text>
+
+  <text x="94" y="320" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#52525b">
+    React • Next.js • Node.js • MongoDB
+  </text>
+
+  <text x="94" y="420" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#18181b">
+    Building modern web experiences
+  </text>
+
+  <text x="94" y="462" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#18181b">
+    that work.
+  </text>
+</svg>

@@ -51,6 +51,14 @@ export const metadata: Metadata = {
     description:
       "Portfolio of Shreyash Sarode, a Software Developer specializing in modern full-stack web development.",
     siteName: "Shreyash Sarode Portfolio",
+    images: [
+      {
+        url: "/opengraph-image.svg",
+        width: 1200,
+        height: 630,
+        alt: "Shreyash Sarode - Software Developer",
+      },
+    ],
   },
 
   twitter: {
