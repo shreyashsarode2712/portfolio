@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-domain.vercel.app"),
+  metadataBase: new URL("https://portfolio-eta-two-09uyvkilem.vercel.app"),
 
   title: {
     default: "Shreyash Sarode | Software Developer",
